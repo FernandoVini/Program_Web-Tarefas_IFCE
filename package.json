@@ -1,6 +1,6 @@
 {
   "scripts": {
-  "start": "node server.js"
+  "start": "node server.js",
 }
   "name": "ex-ejs",
   "version": "1.0.1",
