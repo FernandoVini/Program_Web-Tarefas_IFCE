@@ -1,0 +1,21 @@
+{
+  "name": "ex-ejs",
+  "version": "1.0.1",
+  "description": "exemplo EJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "ejs",
+    "static",
+    "files"
+  ],
+  "author": "Carlos Hairon",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
