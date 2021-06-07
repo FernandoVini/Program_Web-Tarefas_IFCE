@@ -18,6 +18,6 @@ app.get('/Let', function(req,res){
     res.render('Let/Let_Ex');
 });
 
-app.listen(3000, function(){
+app.listen(process.env.PORT || 5000, function(){
     console.log("Servidor rodando com Express");
 });
